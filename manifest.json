@@ -1,0 +1,10 @@
+{
+  "name": "Laura's Portuguese",
+  "short_name": "Portuguese",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f3f7f4",
+  "theme_color": "#176b43",
+  "lang": "en",
+  "description": "European Portuguese spaced-repetition vocabulary trainer"
+}
